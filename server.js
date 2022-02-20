@@ -4,7 +4,7 @@ const fs = require('fs')
 const path = require('path')
 //const nt = require('./public/routes/note')
 const app = express();  // creating a server using express
-const PORT = process.env.port || 3001;   // Find any port for my work or give me port 3001
+const PORT = process.env.PORT || 3001;   // Find any port for my work or give me port 3001
 
 const { v4: uuidv4 } = require('uuid'); // Importing this npm package for id
 
