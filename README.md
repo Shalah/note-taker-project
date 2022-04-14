@@ -4,6 +4,9 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+![note-taker](./public/assets/img/note-taker.png)
+
+
 ## Description
 This is a note taker. Users are able to add any types of notes they want. Those notes will stick to the page even after a hard refresh. They can be deleted and viewed. 
 
